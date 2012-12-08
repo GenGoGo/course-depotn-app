@@ -11,10 +11,12 @@
 <body id="store" >
 <div id="banner" >
 <%= image_tag("logo.png", :size => "50x50") %>
+
 <%= @page_title || "MY SHELF" %>
 </div>
 <div id="columns" >
 <div id="side" >
+<%= current_cart_link %><br />
 <a href="/" >Home</a><br />
 <a href="http://www..../faq" >Questions</a><br />
 <a href="http://www..../news" >News</a><br />

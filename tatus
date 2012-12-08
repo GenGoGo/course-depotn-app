@@ -1,0 +1,59 @@
+[33mcommit ae29a2d1feef0ec670035d9dcc693dd05edc2360[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Sat Dec 8 11:58:23 2012 +0200
+
+    any line item check
+
+[33mcommit 43d0c1d56b7c32d495f175f9de4e9e1d4178a9bb[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Sat Dec 8 11:41:57 2012 +0200
+
+    Added line_item
+
+[33mcommit e7b56bd5c9314c0770d732f23881d7722c474aa3[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Sat Dec 8 11:26:59 2012 +0200
+
+    New Cart
+
+[33mcommit 446f131de6694c4841167cec6f0db7c8c4c86b63[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Sat Dec 8 11:05:23 2012 +0200
+
+    Added some UI
+
+[33mcommit 75e43ed97c65e7fb2e9f8eb90b372cc55aceaecb[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Thu Dec 6 21:37:21 2012 +0200
+
+    Added controller Store
+
+[33mcommit 47ab03b254c0734c2d015f5329936fba2ed72cc0[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Thu Dec 6 21:07:41 2012 +0200
+
+    Added validation tests
+
+[33mcommit 3a02fd7598423a60798257b95b3385aa0da14ac1[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Thu Dec 6 20:15:20 2012 +0200
+
+    All commit
+
+[33mcommit b196f87fb38e6a667166b2a4e257476c5fb16cd4[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Thu Dec 6 19:41:11 2012 +0200
+
+    Some
+
+[33mcommit 2844fede8e1afb8820fc4ca53d18baca9b1064b6[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Thu Dec 6 19:34:58 2012 +0200
+
+    Initial commit
+
+[33mcommit 957ed6b8cdfc24f88663e5fdc0202c04f8d348bd[m
+Author: GenGoGo <erotari@gmail.com>
+Date:   Tue Dec 4 11:28:31 2012 -0800
+
+    Initial commit
